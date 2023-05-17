@@ -1,7 +1,7 @@
-import LineChart from "./components/LineChart/LineChart";
+import CustomLineChart from "./components/CustomLineChart/CustomLineChart";
 
 function App() {
-  return <LineChart />;
+  return <CustomLineChart />;
 }
 
 export default App;
